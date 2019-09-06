@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#section-a,
+#section-b,
+#section-c {
+    margin: 20px 0px;
+}
+
+/* a {
+    color: #333 !important;
+} */
+
+
+.bg-color-1 {
+    background: #2D2926FF;
+}
+
+.bg-color-2 {
+    background: #E94B3CFF;
+}
+
+.bg-color-3 {
+    background: #C7D3D4FF;
+}
+
+.bg-color-4 {
+    background: #A2A2A1FF;
+}
+
+.bg-right-border {
+    border-right: 1px solid #ccc;
+}
