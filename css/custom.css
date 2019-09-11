@@ -1,0 +1,11 @@
+body {
+    overflow-x: hidden;
+}
+
+#login-section {
+    margin: 50px 0px 50px 0px;
+}
+
+.text-color {
+    color: #4db6ac;
+}
